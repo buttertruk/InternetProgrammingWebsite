@@ -8,5 +8,5 @@ A site displaying my information, such as interests, programming languages with 
 ## ASSIGNMENT 1
 A page that changes the text color and background based on user selections. The text is pulled from the plot summary of one of my favorite movies: Zelig by filmmaker Woody Allen.
 
-# ASSIGNMENT 2
+## ASSIGNMENT 2
 Allows a user to add and delete table rows. Also, has a function to rearrange the content found in the rows based on length of the text.
