@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: lightblue;
+}
+
+.main{
+    width: 500px;
+    margin: auto;
+    background-color: darkkhaki;
+    border: 2px solid black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.table{
+
+}
+
+.buttons{
+    margin: 50px;
+}

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>String Sorter</title>
+    <link rel ="stylesheet" type="text/css" href="assign2.css">
+</head>
+<body>
+<div class="main"><center>
+
+    <div class="table">
+        <table id="entry">
+            <tr class="tHeading">
+                <th></th>
+                <th>INPUT</th>
+                <th>LENGTH</th>
+            </tr>
+            <tr class="tElements" id="tElements">
+                <th>1</th>
+                <td><input type="text" id="1" oninput="cell_change()"></td>
+                <th id="1Len">0</th>
+            </tr>
+        </table>
+    </div>
+
+    <div class="buttons">
+        <table>
+            <tr>
+                <td><button class="add" onclick="addCell()">Add Cell</button></td>
+                <td><button class="remove" onclick="removeCell()">Remove Cell</button></td>
+                <td><button class="sort" onclick="sort()">Sort</button></td>
+            </tr>
+        </table>
+    </div>
+</center>
+</div>
+</body>
+<script type="text/javascript" src="assign2.js"></script>
+</html>
